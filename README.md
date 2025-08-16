@@ -11,6 +11,28 @@
 
 _Get started using GitHub in less than an hour._
 
+## 🎮 Naruto Shippuden: Ninja Legends
+
+This repository now includes a Diablo-style action RPG game featuring Naruto Shippuden characters! 
+
+### How to Play
+1. Open `naruto-diablo.html` in your web browser
+2. Choose your ninja character (Naruto, Sasuke, Sakura, or Kakashi)
+3. Click to move around the battlefield
+4. Click on enemies to attack them
+5. Use jutsu skills with the buttons on the left panel
+6. Manage your health and chakra
+7. Collect items and level up your character
+
+### Game Features
+- **4 Playable Characters**: Each with unique stats and abilities
+- **Jutsu System**: Use powerful ninja techniques that consume chakra
+- **Combat System**: Click-to-attack with damage calculations
+- **Inventory System**: Collect and use items like health potions
+- **Experience System**: Level up to increase your stats
+- **Enemy AI**: Enemies will hunt you down and attack
+- **Naruto Theme**: Complete with character names, jutsu abilities, and ninja aesthetics
+
 </header>
 
 <!--
